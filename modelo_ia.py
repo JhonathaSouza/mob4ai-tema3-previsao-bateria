@@ -34,11 +34,11 @@ plt.title('Previsão de Consumo de Bateria')
 plt.legend()
 plt.grid(True)
 
-# ✅ Garante que a pasta 'imagens' exista antes de salvar
+# Garante que a pasta 'imagens' exista antes de salvar
 import os
 os.makedirs('imagens', exist_ok=True)
 
-# ✅ Agora pode salvar o gráfico com segurança
+# Salva o gráfico com segurança
 plt.savefig('imagens/grafico_previsao.png')
 plt.show()
 
