@@ -33,5 +33,5 @@ O modelo consegue prever o consumo de bateria com base nos parâmetros fornecido
 
 ## Autor
 
-[Jhonatha Torres Santos Souza]  
+Jhonatha Torres Santos Souza  
 Graduando em Sistemas de Informação - UFAM  
