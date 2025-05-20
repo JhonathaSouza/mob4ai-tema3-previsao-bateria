@@ -29,7 +29,7 @@ python src/modelo_ia.py
 
 O modelo consegue prever o consumo de bateria com base nos parâmetros fornecidos, com visualização gráfica da comparação entre valores reais e previstos.
 
-![Gráfico de Previsão](imagens/grafico_previsao.png)
+![Image](https://github.com/user-attachments/assets/54c9ae34-ae6a-4225-b592-d82aeaf39d35)
 
 ## Autor
 
